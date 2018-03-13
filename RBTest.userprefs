@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B8692461-1731-0682-CDDC-11E73898E70D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TestForce.cs">
+    <Files>
+      <File FileName="Assets/RBController.cs" Line="19" Column="5" />
+      <File FileName="Assets/DebugScript.cs" Line="15" Column="29" />
+      <File FileName="Assets/Shader/OutlineShaderTest.shader" Line="62" Column="18" />
+      <File FileName="Assets/Shader/Unlit-Alpha.shader" Line="17" Column="15" />
+      <File FileName="Assets/Portal/PortalGun.cs" Line="11" Column="12" />
+      <File FileName="Assets/Portal/Portal.cs" Line="17" Column="17" />
+      <File FileName="Assets/Portal/Portal.shader" Line="46" Column="3" />
+      <File FileName="Assets/LimbTest.cs" Line="45" Column="5" />
+      <File FileName="Assets/Limb.cs" Line="10" Column="31" />
+      <File FileName="Assets/RoboRig.cs" Line="34" Column="56" />
+      <File FileName="Assets/TestForce.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RBTest PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
